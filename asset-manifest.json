@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_project/static/css/main.376ee9b6.css",
-    "main.js": "/react_project/static/js/main.9af7afcb.js",
-    "static/media/thriller.jpg": "/react_project/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
-    "index.html": "/react_project/index.html",
-    "main.376ee9b6.css.map": "/react_project/static/css/main.376ee9b6.css.map",
-    "main.9af7afcb.js.map": "/react_project/static/js/main.9af7afcb.js.map"
+    "main.css": "https://sometimesclear.github.io/react-data/static/css/main.6f802f80.css",
+    "main.js": "https://sometimesclear.github.io/react-data/static/js/main.cdecd874.js",
+    "static/media/thriller.jpg": "https://sometimesclear.github.io/react-data/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
+    "index.html": "https://sometimesclear.github.io/react-data/index.html",
+    "main.6f802f80.css.map": "https://sometimesclear.github.io/react-data/static/css/main.6f802f80.css.map",
+    "main.cdecd874.js.map": "https://sometimesclear.github.io/react-data/static/js/main.cdecd874.js.map"
   },
   "entrypoints": [
-    "static/css/main.376ee9b6.css",
-    "static/js/main.9af7afcb.js"
+    "static/css/main.6f802f80.css",
+    "static/js/main.cdecd874.js"
   ]
 }
