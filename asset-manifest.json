@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.376ee9b6.css",
+    "main.js": "/react_project/static/js/main.9af7afcb.js",
+    "static/media/thriller.jpg": "/react_project/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
+    "index.html": "/react_project/index.html",
+    "main.376ee9b6.css.map": "/react_project/static/css/main.376ee9b6.css.map",
+    "main.9af7afcb.js.map": "/react_project/static/js/main.9af7afcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376ee9b6.css",
+    "static/js/main.9af7afcb.js"
+  ]
+}
