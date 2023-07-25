@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://sometimesclear.github.io/react-data/static/css/main.6f802f80.css",
-    "main.js": "https://sometimesclear.github.io/react-data/static/js/main.cdecd874.js",
+    "main.js": "https://sometimesclear.github.io/react-data/static/js/main.c0beca04.js",
     "static/media/thriller.jpg": "https://sometimesclear.github.io/react-data/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
     "index.html": "https://sometimesclear.github.io/react-data/index.html",
     "main.6f802f80.css.map": "https://sometimesclear.github.io/react-data/static/css/main.6f802f80.css.map",
-    "main.cdecd874.js.map": "https://sometimesclear.github.io/react-data/static/js/main.cdecd874.js.map"
+    "main.c0beca04.js.map": "https://sometimesclear.github.io/react-data/static/js/main.c0beca04.js.map"
   },
   "entrypoints": [
     "static/css/main.6f802f80.css",
-    "static/js/main.cdecd874.js"
+    "static/js/main.c0beca04.js"
   ]
 }
